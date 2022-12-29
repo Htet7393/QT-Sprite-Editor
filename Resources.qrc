@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>goNext.png</file>
+        <file>goPrevious.png</file>
+        <file>goToFirst.png</file>
+        <file>goToLast.png</file>
+        <file>titleIcon.png</file>
+        <file>add.png</file>
+        <file>remove.png</file>
+        <file>eraser.png</file>
+        <file>paintBucket.png</file>
+        <file>pen.png</file>
+        <file>PixEditLogoV1.PNG</file>
+        <file>PixEditLogoV2.PNG</file>
+    </qresource>
+</RCC>
